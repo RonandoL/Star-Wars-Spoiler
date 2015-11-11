@@ -1,0 +1,10 @@
+body {
+  background: #1D1106 url(../images/sw-bg.png) repeat 0 0;
+  color: #f2f2f2;
+}
+
+img.sw_bg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
